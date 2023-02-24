@@ -25,6 +25,8 @@
 // THE SOFTWARE.
 //
 
+#import <Foundation/Foundation.h>
+
 @interface OCServerFeatures : NSObject
 
 @property BOOL hasShareSupport;
