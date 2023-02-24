@@ -17,19 +17,17 @@ FOUNDATION_EXPORT const unsigned char ownCloudVersionString[];
 // In this header, you should import all the public headers of your framework using statements like #import <ownCloud/PublicHeader.h>
 
 
-#import <ownCloud/OCTrustedCertificatesStore.h>
-#import <ownCloud/OCOAuth2Configuration.h>
-#import <ownCloud/OCShareUser.h>
-#import <ownCloud/OCWebDAVClient.h>
-#import <ownCloud/OCServerFeatures.h>
-#import <ownCloud/OCErrorMsg.h>
-#import <ownCloud/OCFrameworkConstants.h>
-#import <ownCloud/OCFileDto.h>
-#import <ownCloud/OCCredentialsDto.h>
-#import <ownCloud/OCChunkDto.h>
-#import <ownCloud/OCOAuth2Manager.h>
-#import <ownCloud/OCCommunication.h>
-#import <ownCloud/OCSharedDto.h>
-#import <ownCloud/OCCredentialsStorage.h>
 #import <ownCloud/OCCapabilities.h>
+#import <ownCloud/OCChunkDto.h>
+#import <ownCloud/OCCommunication.h>
 #import <ownCloud/OCConstants.h>
+#import <ownCloud/OCCredentialsDto.h>
+#import <ownCloud/OCCredentialsStorage.h>
+#import <ownCloud/OCErrorMsg.h>
+#import <ownCloud/OCFileDto.h>
+#import <ownCloud/OCFrameworkConstants.h>
+#import <ownCloud/OCOAuth2Configuration.h>
+#import <ownCloud/OCServerFeatures.h>
+#import <ownCloud/OCShareUser.h>
+#import <ownCloud/OCSharedDto.h>
+#import <ownCloud/OCTrustedCertificatesStore.h>
